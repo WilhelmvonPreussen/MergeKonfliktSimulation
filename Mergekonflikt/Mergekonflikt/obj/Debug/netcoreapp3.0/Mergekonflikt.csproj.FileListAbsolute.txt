@@ -1,0 +1,11 @@
+C:\Users\Melih Baykus\source\repos\MergeKonfliktSimulation\Mergekonflikt\Mergekonflikt\bin\Debug\netcoreapp3.0\Mergekonflikt.exe
+C:\Users\Melih Baykus\source\repos\MergeKonfliktSimulation\Mergekonflikt\Mergekonflikt\bin\Debug\netcoreapp3.0\Mergekonflikt.deps.json
+C:\Users\Melih Baykus\source\repos\MergeKonfliktSimulation\Mergekonflikt\Mergekonflikt\bin\Debug\netcoreapp3.0\Mergekonflikt.runtimeconfig.json
+C:\Users\Melih Baykus\source\repos\MergeKonfliktSimulation\Mergekonflikt\Mergekonflikt\bin\Debug\netcoreapp3.0\Mergekonflikt.runtimeconfig.dev.json
+C:\Users\Melih Baykus\source\repos\MergeKonfliktSimulation\Mergekonflikt\Mergekonflikt\bin\Debug\netcoreapp3.0\Mergekonflikt.dll
+C:\Users\Melih Baykus\source\repos\MergeKonfliktSimulation\Mergekonflikt\Mergekonflikt\bin\Debug\netcoreapp3.0\Mergekonflikt.pdb
+C:\Users\Melih Baykus\source\repos\MergeKonfliktSimulation\Mergekonflikt\Mergekonflikt\obj\Debug\netcoreapp3.0\Mergekonflikt.csprojAssemblyReference.cache
+C:\Users\Melih Baykus\source\repos\MergeKonfliktSimulation\Mergekonflikt\Mergekonflikt\obj\Debug\netcoreapp3.0\Mergekonflikt.AssemblyInfoInputs.cache
+C:\Users\Melih Baykus\source\repos\MergeKonfliktSimulation\Mergekonflikt\Mergekonflikt\obj\Debug\netcoreapp3.0\Mergekonflikt.AssemblyInfo.cs
+C:\Users\Melih Baykus\source\repos\MergeKonfliktSimulation\Mergekonflikt\Mergekonflikt\obj\Debug\netcoreapp3.0\Mergekonflikt.dll
+C:\Users\Melih Baykus\source\repos\MergeKonfliktSimulation\Mergekonflikt\Mergekonflikt\obj\Debug\netcoreapp3.0\Mergekonflikt.pdb

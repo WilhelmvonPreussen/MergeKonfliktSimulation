@@ -7,10 +7,10 @@ namespace Mergekonflikt
         static void Main(string[] args)
         {
             //test ob gepushed wird
-            Console.WriteLine("Hello World!");
+            Console.Write("New Hello World!");
+           //Auslesen der Nachricht
             Console.ReadLine();
-            Console.WriteLine("Hello World!");
-            Console.ReadLine();
+
         }
     }
 }

@@ -9,7 +9,8 @@ namespace Mergekonflikt
             //test ob gepushed wird
             Console.WriteLine("Hello World!");
             Console.ReadLine();
-
+            Console.WriteLine("Hello World!");
+            Console.ReadLine();
         }
     }
 }

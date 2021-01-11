@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Melih Baykus\\source\\repos\\MergeKonfliktSimulation\\Mergekonflikt\\Mergekonflikt\\Mergekonflikt.csproj": {}
+    "C:\\Users\\Melih Baykus\\Source\\Repos\\MergeKonfliktSimulation\\Mergekonflikt\\Mergekonflikt\\Mergekonflikt.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Melih Baykus\\source\\repos\\MergeKonfliktSimulation\\Mergekonflikt\\Mergekonflikt\\Mergekonflikt.csproj": {
+    "C:\\Users\\Melih Baykus\\Source\\Repos\\MergeKonfliktSimulation\\Mergekonflikt\\Mergekonflikt\\Mergekonflikt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Melih Baykus\\source\\repos\\MergeKonfliktSimulation\\Mergekonflikt\\Mergekonflikt\\Mergekonflikt.csproj",
+        "projectUniqueName": "C:\\Users\\Melih Baykus\\Source\\Repos\\MergeKonfliktSimulation\\Mergekonflikt\\Mergekonflikt\\Mergekonflikt.csproj",
         "projectName": "Mergekonflikt",
-        "projectPath": "C:\\Users\\Melih Baykus\\source\\repos\\MergeKonfliktSimulation\\Mergekonflikt\\Mergekonflikt\\Mergekonflikt.csproj",
+        "projectPath": "C:\\Users\\Melih Baykus\\Source\\Repos\\MergeKonfliktSimulation\\Mergekonflikt\\Mergekonflikt\\Mergekonflikt.csproj",
         "packagesPath": "C:\\Users\\Melih Baykus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Melih Baykus\\source\\repos\\MergeKonfliktSimulation\\Mergekonflikt\\Mergekonflikt\\obj\\",
+        "outputPath": "C:\\Users\\Melih Baykus\\Source\\Repos\\MergeKonfliktSimulation\\Mergekonflikt\\Mergekonflikt\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

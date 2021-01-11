@@ -6,6 +6,7 @@ namespace Mergekonflikt
     {
         static void Main(string[] args)
         {
+            //test ob gepushed wird
             Console.WriteLine("Hello World!");
             Console.ReadLine();
 
